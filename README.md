@@ -2,9 +2,11 @@
 
 ### Hello, this is my project taxi service project
 
-Using the link below you can go to an exact copy of this project in Heroku. To login to the application, use the information below the link.
-
-(login: michaellmuller@gmail.com, pass: jfdeegji4)
+Using the link below you can go to an exact copy of this project in Heroku. To register use this request
+url:
+http://cinema-app-heroku.herokuapp.com/register
+with body:
+{"email":"michaellmuller@gmail.com", "password":"jfdeegji4", "repeatPassword":"jfdeegji4"}
 
 https://cinema-app-heroku.herokuapp.com/movies
 
